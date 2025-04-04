@@ -1,6 +1,2 @@
-#include <stdio.h>
-
-int main() {
-   printf("Hello, World!");
-}
-
+#TP-0 "Hello World"
+Said Gerardo
